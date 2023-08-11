@@ -1,6 +1,6 @@
-# smart_learn
+# Smart_learn
 
-A new Flutter project.
+Flutter Based Android Application.
 
 ## Getting Started
 
