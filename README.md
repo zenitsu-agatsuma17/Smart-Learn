@@ -2,15 +2,15 @@
 
 Flutter Based Android Application.
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This app Contains 2 Modules :
+- Programming
+-  UPSC
 
-A few resources to get you started if this is your first Flutter project:
+When These Modules are accessed , Learning Resources are available
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Main Aim of the APP
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Main Aim of the app is to provide a centralized location for all the freely available resources online
+
